@@ -20,4 +20,5 @@ Throughout the course of this project, we've gained expertise in several crucial
 
 - **Data Visualization**: Creating informative and visually appealing plots and graphs using libraries such as Seaborn, Pandas, Numpy, and Matplotlib.
 
+
 This project not only explores the dynamic between public health and well-being but also equips us with a diverse skill set in data analysis and programming.
