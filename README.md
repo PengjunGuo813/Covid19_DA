@@ -8,8 +8,8 @@ The primary objective of this project is to combine these two datasets to invest
 
 Throughout the course of this project, I honed various skills, including:
 
-Python Programming
-Data analysis
-Statistics
-Utilization of data visualization libraries like Seaborn, Pandas, Matplotlib
-Proficiency in data manipulation using Numpy
+<li>Python Programming
+<li>Data analysis
+<li>Statistics
+<li>Utilization of data visualization libraries like Seaborn, Pandas, Matplotlib
+<li>Proficiency in data manipulation using Numpy
