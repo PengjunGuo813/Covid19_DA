@@ -1,15 +1,14 @@
-# Covid19_DA
+In this project, we've utilized two distinct datasets:
+<li>The COVID-19 dataset, which tracks the cumulative daily rate of positive cases across various countries.
+<li>The Global Happiness dataset, which provides scores for various aspects of life as reported by people in countries worldwide.
 
-In this project, we are provided with two distinct datasets:
-<li>The first dataset, COVID-19 data, provides a daily cumulative count of positive cases in different countries. 
-<li>The second dataset, the Global Happiness dataset, assesses various life factors as scored by individuals in each country worldwide.
+Our project's main objective was to combine these two datasets to investigate potential correlations between the spread of the coronavirus and the overall well-being of individuals residing in each country.
 
-The primary objective of this project is to combine these two datasets to investigate potential connections between the spread of the coronavirus and the overall happiness of people in each country.
+Throughout the course of this project, we've cultivated and honed several essential skills, including proficiency in:
 
-Throughout the course of this project, I honed various skills, including:
-
-<li>Python Programming
-<li>Data analysis
-<li>Statistics
-<li>Utilization of data visualization libraries like Seaborn, Pandas, Matplotlib
-<li>Proficiency in data manipulation using Numpy
+Python Programming
+Data Analysis
+Statistical Analysis
+Data visualization using Seaborn, Pandas, Numpy, and Matplotlib.
+<br>
+This project has not only allowed us to explore the interplay between health and happiness but also to develop a diverse skill set in data analysis and programming.
