@@ -1,6 +1,6 @@
 # Covid19_DA
 
-In this project, we are provided with two distinct datasets. 
+In this project, we are provided with two distinct datasets:
 <li>The first dataset, COVID-19 data, provides a daily cumulative count of positive cases in different countries. 
 <li>The second dataset, the Global Happiness dataset, assesses various life factors as scored by individuals in each country worldwide.
 
